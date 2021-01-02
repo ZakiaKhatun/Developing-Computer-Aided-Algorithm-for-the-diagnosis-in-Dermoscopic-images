@@ -1,4 +1,4 @@
-# Developing-Computer-Aided-Algorithm-for-the-diagnosis-in-Dermoscopic-images-to-classify
+# Developing-Computer-Aided-Algorithm-for-the-diagnosis-in-Dermoscopic-images
 ## Design of a Computer Aided Diagnosis system to classify dermoscopic images whether any case belongs to Nevus or lesion. 
 
 **System architecture**:
@@ -11,4 +11,4 @@
 - Classification
 **Best performing classification model**- Ensemble of Inception ResNetv2, Inception v3, EfficientNet B3 (ImageNet-pretrained).
 
-Note: This project was the project of the third semester of my master's in the 'Computer Aided Diagnosis' course.
+Note: This project was a project of the 'Computer Aided Diagnosis' course (Master's third semester).
